@@ -7,7 +7,7 @@
 * **Email:** ernest.bel@mail.ru
 * **Github:** https://github.com/kiberturistik
 ## About me
-I'm 23 year old, I have been working as an equipment adjuster for about 3 years.Work every day is becoming more monotonous and this is the main reason why I became interested in Frontend development. 
+I'm 24 year old, I have been working as an equipment adjuster for about 5 years.Work every day is becoming more monotonous and this is the main reason why I became interested in Frontend development. 
 I consider my main qualities to be learning ability, responsiveness, and reliability.
 ## Skill
 * HTML
