@@ -12,8 +12,8 @@ I consider my main qualities to be learning ability, responsiveness, and reliabi
 ## Skill
 * HTML
 * CSS
-* JS(basic)
-* Visual Studio Code
+* JS
+* React
 ## Code example
 ```
 const multiply = (num1, num2) => {
