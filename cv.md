@@ -5,7 +5,7 @@
 * **Location:** Minsk, Belarus
 * **Phone:** 375 29 902 40 42
 * **Email:** ernest.bel@mail.ru
-* **Github:** https://github.com/kiberturistik
+* **Github:** https://github.com/ernestqweqwe
 ## About me
 I'm 24 year old, I have been working as an equipment adjuster for about 5 years.Work every day is becoming more monotonous and this is the main reason why I became interested in Frontend development. 
 I consider my main qualities to be learning ability, responsiveness, and reliability.
